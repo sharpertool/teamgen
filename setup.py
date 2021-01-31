@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="teamgen",
-    version="0.0.1",
+    version="0.0.2",
     author="Ed Henderson",
     author_email="ed@sharpertool.com",
     description="A basic, random team generator for tennis groups",
